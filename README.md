@@ -49,10 +49,9 @@ The **Sentiment Dashboard Analytics** solution is a Power BI dashboard built to 
 
 | Filter | Options |
 |--------|---------|
-| **Sentiment Category** | Positive, Negative, Neutral |
-| **Platform** | All platforms in dataset |
-| **Country** | All countries in dataset |
 | **Year / Month** | Date range selector |
+| **Country** | All countries in dataset |
+| **Platform** | All platforms in dataset |
 
 #### Visuals
 
