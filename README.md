@@ -134,7 +134,7 @@ The **Sentiment Dashboard Analytics** solution is a Power BI dashboard built to 
 | **Highest Engagement Platform** | Platform with the highest average engagement per post |
 | **Most Positive Platform** | Platform with the greatest proportion of positive sentiment |
 | **Most Negative Platform** | Platform with the greatest proportion of negative sentiment |
-| **YoY Comparison** | Current year value vs. prior year — used for Positive, Negative, Neutral, and Average Engagement |
+| **YoY Comparison** | Current year value vs. prior year (used for Positive, Negative, Neutral, and Average Engagement) |
 
 ---
 
