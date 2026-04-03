@@ -259,9 +259,9 @@ Several visuals support drill-down for deeper analysis:
 
 ## Insights Summary
 
-1. **Audience is overwhelmingly positive** : **11.9%** of all posts are Neutral, **50.89%** are Positive, and only **37.21%** are Negative. Less than 1 in 3 posts carry negative sentiment — a strong brand health signal.
+1. **Audience is overwhelmingly positive** : **11.9%** of all posts are Neutral, **50.89%** are Positive, and only **37.21%** are Negative. Less than 1 in 3 posts carry negative sentiment, this shows a strong brand health signal.
 
-2. **Positive posts drive significantly more engagement** : Positive content averages **68.6** engagement points (Likes + Retweets) versus just **50.0** for Negative posts — a **37%** engagement premium for positive sentiment. Negativity gets noticed less, not more.
+2. **Positive posts drive significantly more engagement** : Positive content averages **68.6** engagement points (Likes + Retweets) versus just **50.0** for Negative posts and a **37%** engagement premium for positive sentiment. Negativity gets noticed less, not more.
 
 3. **Instagram is the highest-engagement platform** Instagram leads with an average of **67.7** engagement per post and the highest total engagement at **17,464**, outperforming both Twitter **(62.4 avg)** and Facebook **(62.8 avg)**. It's also the most positive platform, with **37.2%** of its posts classified as positive.
    
