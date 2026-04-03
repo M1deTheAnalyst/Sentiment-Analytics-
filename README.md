@@ -31,7 +31,7 @@ The **Sentiment Dashboard Analytics** solution is a Power BI dashboard built to 
 
 - Track the volume and distribution of Positive, Negative, and Neutral sentiment over time
 - Identify which platforms and countries generate the highest engagement
-- Monitor month-over-month sentiment shifts to detect emerging trends or brand crises
+- Monitor year-over-year sentiment shifts to detect emerging trends or brand crises
 - Understand what time of day and day of week drives the most audience activity
 - Benchmark platform performance by engagement and sentiment composition
 
