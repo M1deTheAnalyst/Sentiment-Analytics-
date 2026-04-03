@@ -158,7 +158,7 @@ The **Sentiment Dashboard Analytics** solution is a Power BI dashboard built to 
 | `Month` | String/Integer | Month dimension for MoM comparisons |
 | `Year` | Integer | Year dimension for period filtering |
 | `HourLabel` | String | Hour of day label (e.g., "08:00", "14:00") |
-| `Platform` | String | Social media platform (e.g., Twitter/X, Instagram, Facebook, LinkedIn) |
+| `Platform` | String | Social media platform (Twitter, Instagram, Facebook) |
 | `Country` | String | Geographic origin of the post/activity |
 | `SentimentCategory` | String | Positive / Negative / Neutral |
 | `Positive Posts` | Integer | Count of positive-sentiment posts |
@@ -166,10 +166,10 @@ The **Sentiment Dashboard Analytics** solution is a Power BI dashboard built to 
 | `Neutral Posts` | Integer | Count of neutral-sentiment posts |
 | `Engagement` | Numeric | Raw engagement metric per post or group |
 | `Average Engagement` | Numeric | Aggregated average engagement |
-| `positive from previous month` | Numeric | Prior month positive post count for MoM tracking |
-| `negative from previous month` | Numeric | Prior month negative post count for MoM tracking |
-| `neutral from previous month` | Numeric | Prior month neutral post count for MoM tracking |
-| `avg. engagement from previous month` | Numeric | Prior month average engagement for MoM tracking |
+| `positive from previous year` | Numeric | Prior year positive post count for YoY tracking |
+| `negative from previous year` | Numeric | Prior year negative post count for YoY tracking |
+| `neutral from previous year` | Numeric | Prior year neutral post count for YoY tracking |
+| `avg. engagement from previous year` | Numeric | Prior year average engagement for YoY tracking |
 | `Top Platform` | String/Measure | DAX measure identifying leading platform |
 | `Highest Engagement Platform` | String/Measure | DAX measure identifying top engagement platform 
 | `Most Positive Platform` | String/Measure | DAX measure identifying most positive platform |
